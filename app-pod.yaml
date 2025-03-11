@@ -10,7 +10,7 @@ spec:
     - name: ecr-registry-key
   containers:
     - name: app
-      image: 844188451376.dkr.ecr.us-east-1.amazonaws.com/webapp_repo:v1
+      image: 141947217581.dkr.ecr.us-east-1.amazonaws.com/application-repo:v1
       imagePullPolicy: Always
       ports:
         - containerPort: 8080

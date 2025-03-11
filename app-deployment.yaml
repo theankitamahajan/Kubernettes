@@ -31,6 +31,6 @@ spec:
         - name: DATABASE
           value: "employees"
         - name: APP_COLOR
-          value: "lime"
+          value: "blue"
       imagePullSecrets:
       - name: ecr-registry-key
