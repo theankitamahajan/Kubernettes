@@ -24,3 +24,5 @@ spec:
           value: pw
       imagePullSecrets: 
       - name: ecr-registry-key
+      
+      
