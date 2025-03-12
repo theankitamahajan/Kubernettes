@@ -14,7 +14,7 @@ spec:
         app: employees
     spec:
       containers:
-      - name: webapp
+      - name: app
         image: 141947217581.dkr.ecr.us-east-1.amazonaws.com/application-repo:v2
         imagePullPolicy: Always
         ports:
