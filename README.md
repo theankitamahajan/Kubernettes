@@ -162,7 +162,7 @@ Monitor the rollout status of the updated deployment:
 kubectl rollout status deployment/app-deployment -n app-nmspc
 ```
 
-Once updated, refresh the browser to see any UI changes.
+Once updated, refresh the browser to see changes.
 
 ---
 ### Notes:
